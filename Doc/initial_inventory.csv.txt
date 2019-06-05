@@ -1,0 +1,4 @@
+ID, Product Name, Unit Price, Quantity
+1, "Aspirina Forte", 5.00, 100
+2, "Alka Seltzer", 3.00, 200
+3, "Suero", 23.50, 35
